@@ -2,15 +2,21 @@
   <h1> CATETAN LINUX UBUNTU </h1>
 </div>
 
+<br><br>
+
 ## PENJELASAN SINGKAT TENTANG UBUNTU
 
 Ubuntu merupakan salah satu distribusi Linux yang berbasis Debian dan didistribusikan sebagai perangkat lunak bebas. Ubuntu ditawarkan dalam tiga edisi resmi: Ubuntu Desktop untuk komputer pribadi, Ubuntu Server untuk server dan komputasi awan, dan Ubuntu Core untuk "Internet untuk Segala", perangkat kecil dan robot. Untuk lebih detail [Disini](https://id.wikipedia.org/wiki/Ubuntu)
+
+<br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
 
 tinggal buka aplikasi "System Monitor"
 
 ![Screenshot from 2022-09-13 23-01-29](https://user-images.githubusercontent.com/92344349/189950627-108034ac-c354-4c64-a810-c82351b122bb.png)
+
+<br><br>
 
 ## Software Bawaan Linux
 
