@@ -32,3 +32,7 @@ Rhythmbox adalah aplikasi pemutar musik (atau audio) yang dapat berjalan di ling
 Intinya ini buat download aplikasi di ubuntu gitu aja se
 
 ![Screenshot from 2022-09-13 23-08-02](https://user-images.githubusercontent.com/92344349/189952079-14665757-d1c9-46bd-980c-58d1b03813ff.png)
+
+### thunderbird mail
+
+Thunderbird adalah aplikasi mail client (MUA – Mail User Agent) yang fungsinya sama dengan Outlook Express, Eudora Mail, Evolution, Sylpheed, dan sejenisnya. Thunderbird ini adalah salah satu produk turunan dari Mozilla. Pada awalnya Mozilla selalu mengemas aplikasinya dengan Browser dan Mail Client.
