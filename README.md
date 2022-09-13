@@ -58,3 +58,9 @@ Pertama masuk link [Disini](https://code.visualstudio.com/)
 ![Screenshot from 2022-09-13 23-45-39](https://user-images.githubusercontent.com/92344349/189959828-9d6784d4-4dc8-4e60-a05c-bc65c0faace6.png)
 
 Terus klik yang ```.deb``` udh gitu aja langsung keinstall
+
+kalo sekarang mau nginstall gampang tinggal klik 2 kali, nanti muncul windows baru terus bisa langsung install.
+
+tapi kalo mau make cara lain make terminal juga bisa. kayak gini pertama masuk ke direktori filenya dulu. terus abis itu dpkg filenya dengan cara mengertik
+
+```sudo dpkg -i namaFileYangDiDownload.deb```
