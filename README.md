@@ -64,3 +64,5 @@ kalo sekarang mau nginstall gampang tinggal klik 2 kali, nanti muncul windows ba
 tapi kalo mau make cara lain make terminal juga bisa. kayak gini pertama masuk ke direktori filenya dulu. terus abis itu dpkg filenya dengan cara mengertik
 
 ```sudo dpkg -i namaFileYangDiDownload.deb```
+
+abis itu kita disuruh masukin passwordnya karena kita make file root alias sudo
