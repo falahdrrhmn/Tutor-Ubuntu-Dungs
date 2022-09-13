@@ -54,3 +54,7 @@ Sumber:
 ### VISUAL STUDIO CODE
 
 Pertama masuk link [Disini](https://code.visualstudio.com/)
+
+![Screenshot from 2022-09-13 23-45-39](https://user-images.githubusercontent.com/92344349/189959828-9d6784d4-4dc8-4e60-a05c-bc65c0faace6.png)
+
+Terus klik yang ```.deb``` udh gitu aja langsung keinstall
