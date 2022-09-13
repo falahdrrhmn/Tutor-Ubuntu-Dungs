@@ -35,6 +35,8 @@ Intinya ini buat download aplikasi di ubuntu gitu aja se
 
 ### thunderbird mail
 
+![Screenshot from 2022-09-13 23-37-31](https://user-images.githubusercontent.com/92344349/189958054-be2feeed-7111-4e1f-921d-152f2752eae5.png)
+
 Thunderbird adalah aplikasi mail client (MUA – Mail User Agent) yang fungsinya sama dengan Outlook Express, Eudora Mail, Evolution, Sylpheed, dan sejenisnya. Thunderbird ini adalah salah satu produk turunan dari Mozilla. Pada awalnya Mozilla selalu mengemas aplikasinya dengan Browser dan Mail Client.
 Pengertian Email client adalah software yang digunakan untuk organisasi email, baik untuk akun email berbayar maupun yang gratis. Syaratnya, harus ada akun POP3-nya. Email Client biasa disebut juga sebagai Oulook Express.
 Email client ini sangat sering digunakan sebab ia sudah tersedia langsung dalam Windows. Konfigurasi dan penggunaannya pun cukup mudah, cukup lewat control panel atau Internet Explorer. Bisa dibilang Outlook Express ini adalah format standar e-mail client. File extension-nya adalah EML. Dilengkapi dengan menu export dan import membuatnya mudah untuk dipindahkan ke email client lainnya.Namun, jika digunakan untuk urusan bisnis, Outlook Express ini dirasa kurang sekali. Ia tidak terintegrasi dengan software-software lain seperti messenger contohnya Skype, pdf reader and creator seperti Nitro PDF maupun antivirus seperti AVG Error handlingnya-pun kadang msih suka naik turun, utamanya jika berurusan dengan delivery status message. Jika berpindah sistem operasi seperti Linux, harus di-convert dulu.
