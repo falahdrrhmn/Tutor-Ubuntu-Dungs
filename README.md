@@ -65,4 +65,8 @@ tapi kalo mau make cara lain make terminal juga bisa. kayak gini pertama masuk k
 
 ```sudo dpkg -i namaFileYangDiDownload.deb```
 
+```dpkg``` apaan? 
+
+dpkg (debian package manager) : adalah dasar manajemen paket dari sistem operasi debian dan merupakan program dasar untuk menginstal dan memanipulasi paket biner debian dengan ekstensi file “.deb“). lebih detail [Disini](https://glosarium.org/arti-dpkg-di-komputer/)
+
 abis itu kita disuruh masukin passwordnya karena kita make file root alias sudo
