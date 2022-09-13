@@ -29,6 +29,6 @@ Rhythmbox adalah aplikasi pemutar musik (atau audio) yang dapat berjalan di ling
 
 ### Ubuntu Software
 
-
+Intinya ini buat download aplikasi di ubuntu gitu aja se
 
 ![Screenshot from 2022-09-13 23-08-02](https://user-images.githubusercontent.com/92344349/189952079-14665757-d1c9-46bd-980c-58d1b03813ff.png)
