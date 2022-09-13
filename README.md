@@ -46,3 +46,11 @@ Sumber:
 [Disini](https://lovelyristin.com/perbedaan-thunderbird-dan-gmail)
 
 [Disini](https://faqdesk.net/id/klien-email-mana-yang-lebih-baik-mozilla-thunderbird-atau-microsoft-outlook)
+
+<br><br>
+
+## INSTALASI SOFTWARE
+
+### VISUAL STUDIO CODE
+
+Pertama masuk link [Disini](https://code.visualstudio.com/)
