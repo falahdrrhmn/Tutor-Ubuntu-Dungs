@@ -110,6 +110,12 @@ cara download firacode
 
 <br><br>
 
+## CARA DOWNLOAD NOTEPAD++ DI UBUNTU
+
+tinggal ketik 
+
+```sudo snap install notepad-plus-plus```
+
 ## CARA CEK TASK MANAGER DI TERMINAL
 
 tinggal buka aplikasi "System Monitor"
