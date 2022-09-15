@@ -15,6 +15,17 @@ Ubuntu merupakan salah satu distribusi Linux yang berbasis Debian dan didistribu
 download flutter make snap. paan snap? Snap merupakan manajer paket yang bersifat universal sama seperti flatpak, artinya ia dapat digunakan dipelbagai distribusi Linux. Hal ini tidak seperti manajer paket linux lain seperti apt atau pacman yang memang hanya diperuntukkan untuk distribusi linux tertentu.
 [sumber](https://kopiding.in/mengenal-snap/)
 
+Ubuntu versi 16.04 LTS (Xenial Xerus) sudah keinstall snap 
+
+#### cara cek versi ubuntu di terminal 
+```lsb_release -a```
+```No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.5 LTS
+Release:	20.04
+Codename:	focal
+```
+
 <br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
