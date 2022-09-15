@@ -10,6 +10,13 @@ Ubuntu merupakan salah satu distribusi Linux yang berbasis Debian dan didistribu
 
 <br><br>
 
+## CARA DOWNLOAD FLUTTER DI UBUNTU!
+
+download flutter make snap. paan snap? Snap merupakan manajer paket yang bersifat universal sama seperti flatpak, artinya ia dapat digunakan dipelbagai distribusi Linux. Hal ini tidak seperti manajer paket linux lain seperti apt atau pacman yang memang hanya diperuntukkan untuk distribusi linux tertentu.
+[sumber](https://kopiding.in/mengenal-snap/)
+
+<br><br>
+
 ## CARA CEK TASK MANAGER DI TERMINAL
 
 tinggal buka aplikasi "System Monitor"
