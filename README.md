@@ -81,6 +81,23 @@ Perintah tersebut akan mengunduh flutter sdk pada sistem kita.
 
 UDAH FLUTTER UDAH KEINSTALL BERARTI
 tapi avd belom kedownload, jadi gabisa bikin virtual device. kalo mau make harus download android virtual device, ada cara lain tapi lebih ribet
+
+<br><br>
+
+## CARA DOWNLOAD ANDROID STUDIO + AVD
+
+download android studio biar bisa dapet android virtual device. sama2 make snap biar gampang.
+
+```sudo snap install android-studio --classic```
+
+bakal install android studio
+
+kalo downloadnya udah selesai tinggal ketik kayak gini 
+
+```android-studio```
+
+fungsinya buat ngejalanin
+
 <br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
