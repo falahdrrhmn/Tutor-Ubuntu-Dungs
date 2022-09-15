@@ -17,6 +17,15 @@ download flutter make snap. paan snap? Snap merupakan manajer paket yang bersifa
 
 Ubuntu versi 16.04 LTS (Xenial Xerus) sudah keinstall snap 
 
+#### cara cek versi ubuntu di terminal 
+```lsb_release -a```
+```No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.5 LTS
+Release:	20.04
+Codename:	focal
+```
+
 kalo mau ngecek snap langsung tinggal ketik 
 ```snap```
 kalo hasilnya kayak gini
@@ -48,14 +57,7 @@ For a short summary of all commands, run 'snap help --all'.
 ```
 maka sudah keinstall
 
-#### cara cek versi ubuntu di terminal 
-```lsb_release -a```
-```No LSB modules are available.
-Distributor ID:	Ubuntu
-Description:	Ubuntu 20.04.5 LTS
-Release:	20.04
-Codename:	focal
-```
+
 
 <br><br>
 
