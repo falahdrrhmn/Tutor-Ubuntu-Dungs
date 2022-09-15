@@ -57,6 +57,12 @@ For a short summary of all commands, run 'snap help --all'.
 ```
 maka sudah keinstall
 
+Kalo mau download snap tinggal klik ketik update terus install make apt, pastiin apt udah keintall. kalo gak ya make ubuntu software aja 
+
+```
+sudo apt update
+sudo apt install snapd
+```
 
 
 <br><br>
