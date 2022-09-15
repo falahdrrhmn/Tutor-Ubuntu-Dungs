@@ -12,7 +12,7 @@ Ubuntu merupakan salah satu distribusi Linux yang berbasis Debian dan didistribu
 
 ## CARA DOWNLOAD FLUTTER DI UBUNTU!
 
-download flutter make snap. paan snap? Snap merupakan manajer paket yang bersifat universal sama seperti flatpak, artinya ia dapat digunakan dipelbagai distribusi Linux. Hal ini tidak seperti manajer paket linux lain seperti apt atau pacman yang memang hanya diperuntukkan untuk distribusi linux tertentu.
+ada dua cara download flutter, bisa make ```snap``` dan ```di web flutter```. tp disini download flutter make snap. paan snap? Snap merupakan manajer paket yang bersifat universal sama seperti flatpak, artinya ia dapat digunakan dipelbagai distribusi Linux. Hal ini tidak seperti manajer paket linux lain seperti apt atau pacman yang memang hanya diperuntukkan untuk distribusi linux tertentu.
 [sumber](https://kopiding.in/mengenal-snap/)
 
 Ubuntu versi 16.04 LTS (Xenial Xerus) sudah keinstall snap 
