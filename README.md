@@ -102,6 +102,10 @@ terus tinggal install2 aja udah.
 
 <br><br>
 
+## CARA DOWNLOAD FONT DI UBUNTU
+
+<br><br>
+
 ## CARA CEK TASK MANAGER DI TERMINAL
 
 tinggal buka aplikasi "System Monitor"
