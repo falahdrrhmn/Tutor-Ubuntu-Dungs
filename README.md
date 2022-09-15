@@ -117,6 +117,16 @@ tinggal ketik
 
 ```sudo snap install notepad-plus-plus```
 
+<br><br>
+
+## CARA DOWNLOAD GIT DI UBUNTU
+
+tinggal ketik
+
+```sudo apt install git```
+
+<br><br>
+
 ## CARA CEK TASK MANAGER DI TERMINAL
 
 tinggal buka aplikasi "System Monitor"
