@@ -106,7 +106,7 @@ terus tinggal install2 aja udah.
 
 cara download firacode
 
-```sudo apt install fonts-firacode```
+```sudo apt install fonts-firacode``` <br>
 ```sudo apt-get -y install fonts-cascadia-code```
 
 <br><br>
