@@ -111,6 +111,14 @@ cara download firacode
 
 <br><br>
 
+## CARA DOWNLOAD STANDAR NOTES DI UBUNTU
+
+tinggal ketik gini
+
+```sudo snap install standard-notes```
+
+<br><br>
+
 ## CARA DOWNLOAD NOTEPAD++ DI UBUNTU
 
 tinggal ketik 
