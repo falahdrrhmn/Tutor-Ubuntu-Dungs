@@ -125,6 +125,13 @@ tinggal ketik
 
 ```sudo apt install git```
 
+Konfigurasi Git
+
+```
+git config --global user.name "Nama Anda"
+git config --global user.email "email@namadomain.com"
+```
+
 <br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
