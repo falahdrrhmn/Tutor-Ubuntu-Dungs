@@ -80,7 +80,7 @@ abis itu ketik
 Perintah tersebut akan mengunduh flutter sdk pada sistem kita.
 
 UDAH FLUTTER UDAH KEINSTALL BERARTI
-
+tapi avd belom kedownload, jadi gabisa bikin virtual device. kalo mau make harus download android virtual device, ada cara lain tapi lebih ribet
 <br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
