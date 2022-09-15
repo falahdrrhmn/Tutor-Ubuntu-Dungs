@@ -63,6 +63,7 @@ Kalo mau download snap tinggal klik ketik update terus install make apt, pastiin
 sudo apt update
 sudo apt install snapd
 ```
+[sumber](https://kopiding.in/install-snap-ubuntu/)
 
 
 <br><br>
