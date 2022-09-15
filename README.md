@@ -65,6 +65,12 @@ sudo apt install snapd
 ```
 [sumber](https://kopiding.in/install-snap-ubuntu/)
 
+### DOWNLOAD!
+
+buka terminal terus ketik gini:
+
+```sudo snap install flutter --classic```
+
 
 <br><br>
 
