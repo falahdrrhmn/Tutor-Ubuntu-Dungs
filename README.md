@@ -104,6 +104,10 @@ terus tinggal install2 aja udah.
 
 ## CARA DOWNLOAD FONT DI UBUNTU
 
+cara download firacode
+
+```sudo apt install fonts-firacode```
+
 <br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
