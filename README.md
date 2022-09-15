@@ -17,6 +17,37 @@ download flutter make snap. paan snap? Snap merupakan manajer paket yang bersifa
 
 Ubuntu versi 16.04 LTS (Xenial Xerus) sudah keinstall snap 
 
+kalo mau ngecek snap langsung tinggal ketik 
+```snap```
+kalo hasilnya kayak gini
+```
+The snap command lets you install, configure, refresh and remove snaps.
+Snaps are packages that work across many different Linux distributions,
+enabling secure delivery and operation of the latest apps and utilities.
+
+Usage: snap <command> [<options>...]
+
+Commonly used commands can be classified as follows:
+
+         Basics: find, info, install, remove, list
+        ...more: refresh, revert, switch, disable, enable, create-cohort
+        History: changes, tasks, abort, watch
+        Daemons: services, start, stop, restart, logs
+    Permissions: connections, interface, connect, disconnect
+  Configuration: get, set, unset, wait
+    App Aliases: alias, aliases, unalias, prefer
+        Account: login, logout, whoami
+      Snapshots: saved, save, check-snapshot, restore, forget
+         Device: model, reboot, recovery
+      ... Other: warnings, okay, known, ack, version
+    Development: download, pack, run, try
+
+For more information about a command, run 'snap help <command>'.
+For a short summary of all commands, run 'snap help --all'.
+
+```
+maka sudah keinstall
+
 #### cara cek versi ubuntu di terminal 
 ```lsb_release -a```
 ```No LSB modules are available.
