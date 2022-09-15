@@ -98,6 +98,8 @@ kalo downloadnya udah selesai tinggal ketik kayak gini
 
 fungsinya buat ngejalanin
 
+terus tinggal install2 aja udah.
+
 <br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
