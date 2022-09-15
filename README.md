@@ -79,6 +79,8 @@ abis itu ketik
 
 Perintah tersebut akan mengunduh flutter sdk pada sistem kita.
 
+UDAH FLUTTER UDAH KEINSTALL BERARTI
+
 <br><br>
 
 ## CARA CEK TASK MANAGER DI TERMINAL
