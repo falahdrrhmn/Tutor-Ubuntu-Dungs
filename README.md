@@ -71,6 +71,13 @@ buka terminal terus ketik gini:
 
 ```sudo snap install flutter --classic```
 
+itu perintah buat download flutter
+
+abis itu ketik 
+
+```flutter sdk-path```
+
+Perintah tersebut akan mengunduh flutter sdk pada sistem kita.
 
 <br><br>
 
