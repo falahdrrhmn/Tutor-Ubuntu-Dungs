@@ -204,3 +204,10 @@ dpkg (debian package manager) : adalah dasar manajemen paket dari sistem operasi
 abis itu kita disuruh masukin passwordnya karena kita make file root alias sudo
 
 terus sekarang udah keinstal ya masehh
+
+## SHORTCUT DI UBUNTU!
+
+### RESET VGA DI UBUNTU
+
+```CTRL + ALT + F1```
+sumber: [Disini](https://askubuntu.com/questions/507884/keyboard-shortcut-to-reset-the-graphic-card-driver)
