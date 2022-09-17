@@ -211,5 +211,6 @@ terus sekarang udah keinstal ya masehh
 
 ### RESET VGA DI UBUNTU
 
-```CTRL + ALT + F1``` <br>
+```CTRL + ALT + F1```
+
 sumber: [Disini](https://askubuntu.com/questions/507884/keyboard-shortcut-to-reset-the-graphic-card-driver)
