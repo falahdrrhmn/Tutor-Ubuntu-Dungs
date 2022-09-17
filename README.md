@@ -205,9 +205,11 @@ abis itu kita disuruh masukin passwordnya karena kita make file root alias sudo
 
 terus sekarang udah keinstal ya masehh
 
+<br><br>
+
 ## SHORTCUT DI UBUNTU!
 
 ### RESET VGA DI UBUNTU
 
-```CTRL + ALT + F1```
+```CTRL + ALT + F1``` <br>
 sumber: [Disini](https://askubuntu.com/questions/507884/keyboard-shortcut-to-reset-the-graphic-card-driver)
