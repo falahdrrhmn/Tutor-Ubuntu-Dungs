@@ -135,6 +135,7 @@ cara make tinggal sesuain direktori terus ketik
 
 ```tree```
 
+btw klo di windows udah auto kedownload ini mah
 
 <br><br>
 
