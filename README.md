@@ -119,6 +119,25 @@ tinggal ketik gini
 
 <br><br>
 
+## CARA DOWNLOAD TREE DI UBUNTU!
+
+tree apaan? 
+
+![Screenshot from 2022-09-17 23-41-07](https://user-images.githubusercontent.com/92344349/190867401-02853284-d92e-4480-9a22-daa60387c84e.png)
+
+intinya kalo di ketik ```tree``` di terminal bisa ngeliat semua direktori dan sub direktori:)
+
+cara download :
+
+```sudo apt-get install tree```
+
+cara make tinggal sesuain direktori terus ketik 
+
+```tree```
+
+
+<br><br>
+
 ## CARA DOWNLOAD NOTEPAD++ DI UBUNTU
 
 tinggal ketik 
