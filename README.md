@@ -303,3 +303,18 @@ falah@ubuntu:~/coba$ ls
 data.txt
 ```
 
+cara menghapus direktori dan file 
+
+```ssh
+falah@DESKTOP-9EO0J5L:~/coba$ ls
+data.txt
+falah@DESKTOP-9EO0J5L:~/coba$ rm data.txt
+falah@DESKTOP-9EO0J5L:~/coba$ ls
+falah@DESKTOP-9EO0J5L:~/coba$ cd ..
+falah@DESKTOP-9EO0J5L:~$ ls
+asset  coba  go
+falah@DESKTOP-9EO0J5L:~$ rmdir coba/
+falah@DESKTOP-9EO0J5L:~$ ls
+asset  go
+```
+
