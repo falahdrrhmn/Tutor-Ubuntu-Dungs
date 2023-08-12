@@ -242,6 +242,7 @@ sumber: [Disini](https://askubuntu.com/questions/507884/keyboard-shortcut-to-res
 falah@ubuntu
 
 falah = user yg digunakan saat ini
+
 ubuntu = hostname yg digunakan saat ini 
 
 
@@ -250,4 +251,4 @@ falah@ubuntu:~$ whoami
 falah
 falah@ubuntu:~$ hostname
 ubuntu
-```ssh
+```
