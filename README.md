@@ -234,3 +234,20 @@ terus sekarang udah keinstal ya masehh
 ```CTRL + ALT + F1```
 
 sumber: [Disini](https://askubuntu.com/questions/507884/keyboard-shortcut-to-reset-the-graphic-card-driver)
+
+<br><br>
+
+## MBUH
+
+falah@ubuntu
+
+falah = user yg digunakan saat ini
+ubuntu = hostname yg digunakan saat ini 
+
+
+```ssh
+falah@ubuntu:~$ whoami
+falah
+falah@ubuntu:~$ hostname
+ubuntu
+```ssh
