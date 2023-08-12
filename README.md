@@ -340,3 +340,50 @@ exit
 falah@DESKTOP-9EO0J5L:~$
 
 ```
+
+mau install atau hapus
+
+```ssh
+sudo apt install
+sudo apt remove 
+```
+
+list yang bisa di install di mana? disource list cari sendiri <br>
+bisa make nano ato vim, itu ntar bisa ditabahin juga kok isinya buat download yang lebihlengkap atau apa gitu
+
+
+```ssh
+sudo nano /etc/apt/sources.list
+```
+
+udah ubah souce list mau update source listnya? 
+
+```ssh
+sudo apt update
+```
+
+udah di update source listnya mau update aplikasi sesuai terbaru? agak lama*
+
+```ssh
+sudo apt upgrade
+```
+
+### Permission di linux
+
+- owner
+- group
+- other
+
+#### Value of permission 
+
+- r read 4
+- w write 2
+- x execute 1 
+
+ubah permissionnya ???
+
+```ssh
+chmod 755 namafile.txt
+```
+
+755 darimana? dapet dari 7 dari owner, 5 dari group, 5 lagi dari other. jadi itu tergantung dari value of permissionnya intinya
