@@ -290,3 +290,16 @@ data.txt
 
 ```
 
+memindah atau cuutt
+
+```ssh
+falah@ubuntu:~$ ls
+asset  coba  data.txt  go
+falah@ubuntu:~$ mv ./data.txt coba/
+falah@ubuntu:~$ ls
+asset  coba  go
+falah@ubuntu:~$ cd coba/
+falah@ubuntu:~/coba$ ls
+data.txt
+```
+
