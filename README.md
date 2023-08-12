@@ -318,3 +318,25 @@ falah@DESKTOP-9EO0J5L:~$ ls
 asset  go
 ```
 
+mau tau perintah apa saja yang sudah dijalankan
+
+```ssh
+history
+```
+
+ke super user su
+
+```ssh 
+falah@DESKTOP-9EO0J5L:~$ sudo su
+[sudo] password for falah:
+root@DESKTOP-9EO0J5L:/home/falah#
+```
+
+mau keluar dari super user 
+
+```ssh
+root@DESKTOP-9EO0J5L:/home/falah# exit
+exit
+falah@DESKTOP-9EO0J5L:~$
+
+```
