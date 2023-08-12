@@ -267,3 +267,12 @@ falah@ubuntu:~$ touch data.txt
 falah@ubuntu:~$ ls
 asset  data.txt  go
 ```
+membuat folder atau direktori 
+
+```ssh
+falah@ubuntu:~$ mkdir coba
+falah@ubuntu:~$ ls
+asset  coba  data.txt  go
+```
+
+
