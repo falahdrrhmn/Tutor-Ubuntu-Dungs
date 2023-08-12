@@ -241,7 +241,7 @@ sumber: [Disini](https://askubuntu.com/questions/507884/keyboard-shortcut-to-res
 
 falah@ubuntu
 
-falah = user yg digunakan saat ini
+falah = user yg digunakan saat ini <br>
 
 ubuntu = hostname yg digunakan saat ini 
 
