@@ -275,4 +275,18 @@ falah@ubuntu:~$ ls
 asset  coba  data.txt  go
 ```
 
+tutor ngopii 
+
+```ssh
+
+falah@ubuntu:~$ ls
+asset  coba  data.txt  go
+falah@ubuntu:~$ cp ./data.txt coba/
+falah@ubuntu:~$ ls
+asset  coba  data.txt  go
+falah@ubuntu:~$ cd coba/
+falah@ubuntu:~/coba$ ls
+data.txt
+
+```
 
