@@ -251,4 +251,11 @@ falah@ubuntu:~$ whoami
 falah
 falah@ubuntu:~$ hostname
 ubuntu
+falah@ubuntu:~$ pwd
+/home/falah
+```
+mau tau dokumentasi tentang sesuatu ketik man, misal mau tau dokumentasi penjelasan tentang pwd  
+
+```ssh
+falah@ubuntu:~$ man pwd
 ```
