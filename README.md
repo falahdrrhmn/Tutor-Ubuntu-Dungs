@@ -259,3 +259,11 @@ mau tau dokumentasi tentang sesuatu ketik man, misal mau tau dokumentasi penjela
 ```ssh
 falah@ubuntu:~$ man pwd
 ```
+
+membuat file 
+
+```ssh
+falah@ubuntu:~$ touch data.txt
+falah@ubuntu:~$ ls
+asset  data.txt  go
+```
