@@ -387,3 +387,15 @@ chmod 755 namafile.txt
 ```
 
 755 darimana? dapet dari 7 dari owner, 5 dari group, 5 lagi dari other. jadi itu tergantung dari value of permissionnya intinya
+
+### Menjalankan aplikasi di background dan foreground 
+
+```ssh
+falah@DESKTOP-9EO0J5L:~$ nano &
+[1] 6681
+falah@DESKTOP-9EO0J5L:~$ jobs
+[1]+  Stopped                 nano
+falah@DESKTOP-9EO0J5L:~$ fg 1
+nano
+falah@DESKTOP-9EO0J5L:~$ jobs
+```
